@@ -24,6 +24,9 @@ module.exports = yeoman.generators.Base.extend({
         // Bower configuration file
         this.copy('.bowerrc.template', '.bowerrc');
 
+        // gitignore
+        this.copy('.gitignore.template', '.gitignore');
+
         // main stylesheet
         this.copy('styles.less.template', 'less/styles.less');
 
