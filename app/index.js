@@ -15,7 +15,7 @@ module.exports = yeoman.generators.Base.extend({
         var dirs = ['dist', 'less', 'js'];
         var that = this;
 
-        dirs.each(function(d) {
+        dirs.forEach(function(d) {
             that.mkdir(d);
         });
     },
