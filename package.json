@@ -1,0 +1,13 @@
+{
+  "name": "generator-clientside",
+  "version": "0.1.0",
+  "description": "Frontend YO generator",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Gideon Farrell <me@gideonfarrell.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^0.17.0"
+  }
+}
