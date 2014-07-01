@@ -1,0 +1,10 @@
+/* global require */
+require.config({
+    paths: {},
+    shim: {}
+});
+
+require(function() {
+    'use strict';
+    // Main entry point
+});
