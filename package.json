@@ -1,6 +1,6 @@
 {
   "name": "generator-clientside",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Frontend YO generator",
   "keywords": [
     "yeoman-generator"
